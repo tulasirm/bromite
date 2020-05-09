@@ -19,16 +19,6 @@ For documentation see the [wiki](https://github.com/bromite/bromite/wiki).
 Bromite aims at providing a no-clutter browsing experience without privacy-invasive features and with the addition of a fast ad-blocking engine.
 Minimal UI changes are applied to help curbing the idea of "browser as an advertisement platform".
 
-# Donate
-
-Please donate to support development of Bromite and the costs for the build system.
-
-[&rarr; Support development with a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JP3XTQPVRNET2): [![paypal](https://www.bromite.org/assets/img/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JP3XTQPVRNET2)
-
-<a href="bitcoin:bc1qmpyuqsvs3tz3uaysplmwjr33gg4rzu6cqweaq834ehc25vduxppqkrszel">BTC donations address</a>: `bc1qmpyuqsvs3tz3uaysplmwjr33gg4rzu6cqweaq834ehc25vduxppqkrszel`
-
-ETH donations address: `0xf47ff39223d828f99fec5ab53bd068c5c0522042`
-
 # Features
 
 * customizable adblock filters via user-provided URL
@@ -126,7 +116,7 @@ See upstream documentation: https://github.com/chromium/chromium/blob/master/com
 Bromite uses an unindexed filter file, which is periodically published at https://github.com/bromite/filters
 
 # Credits
-
+* [Bromite project](https://www.bromite.org) and developers
 * [Chromium project](https://www.chromium.org/Home) and developers
 * [Iridium project](https://github.com/iridium-browser) for some patches
 * [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) for some patches
