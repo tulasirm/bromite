@@ -1,8 +1,8 @@
-# Arc - Take back your browser
+# Arc - Accessibility browser!
 
 <img src="https://www.bromite.org/release.svg" alt="current Bromite release" title="current Bromite release" /> <img src="https://www.bromite.org/license.svg" alt="GNU GPL v3" title="GNU VPL v3" />
 
-<img title="Bromite - take back your browser!" src="https://www.bromite.org/android-icon-192x192.png" width="96" alt="Bromite" />
+<img title="Arc - Accessibility browser!" src="https://www.bromite.org/android-icon-192x192.png" width="96" alt="Bromite" />
 
 Bromite is a [Chromium](https://www.chromium.org/Home) fork with support for ad blocking and enhanced privacy.
 
